@@ -2,7 +2,7 @@
 
 - Fuzzy C Means clustering with Python and Matlab
 
-![Screenshot](./FCM-clustering/screenshot.png){ width=50% }
+![Screenshot](./FCM-clustering/screenshot.png){:width=50%}
 
 - Kernel Fisher’s Discriminant with heterogeneous kernels with Python and Matlab
 
