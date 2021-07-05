@@ -1,17 +1,18 @@
 # Classic Machine Learning Algorithms
 
-- Fuzzy C Means clustering with Python and Matlab
+Implement famous machine learning algorithms from scratch with the help of mathematical equations
 
-<img src="./FCM-clustering/screenshot.png" alt="FCM-clustering" width="200px"/>
-
+- Fuzzy C Means Clustering with Python and Matlab
 - Kernel Fisher’s Discriminant with heterogeneous kernels with Python and Matlab
-
-![Screenshot](./FCM-clustering/screenshot.png =250x)
-
 - Linear Regression with Python and Matlab
-
-![Screenshot](./FCM-clustering/screenshot.png =250x)
-
 - Least Mean Squares learning algorithm for Radial Basis Function Kernels with Matlab
 - Soft Margin Support Vector Machine with Matlab
 - Support Vector Regression with Matlab
+
+FCM clustering | Fisher Classification | Linear Regression
+--- | --- | --- |
+![Screenshot](FCM-Clustering/screenshot.png) | ![Screenshot](Fisher-Classification/screenshot.png) | ![Screenshot](Linear-Regression/screenshot.png) | 0.997% |
+
+LMS for RBF | Soft Margin SVM | SVR
+--- | --- | --- |
+![Screenshot](LMS-for-RBF/screenshot.jpg) | ![Screenshot](Soft-Margin-SVM/screenshot.png) | ![Screenshot](SVR/screenshot.png) | 0.997% |
