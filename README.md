@@ -11,8 +11,8 @@ Implement famous machine learning algorithms from scratch with the help of mathe
 
 FCM clustering | Fisher Classification | Linear Regression
 --- | --- | --- |
-![Screenshot](FCM-Clustering/screenshot.png) | ![Screenshot](Fisher-Classification/screenshot.png) | ![Screenshot](Linear-Regression/screenshot.png) | 0.997% |
+![Screenshot](FCM-Clustering/screenshot.png) | ![Screenshot](Fisher-Classification/screenshot.png) | ![Screenshot](Linear-Regression/screenshot.png) |
 
 LMS for RBF | Soft Margin SVM | SVR
 --- | --- | --- |
-![Screenshot](LMS-for-RBF/screenshot.jpg) | ![Screenshot](Soft-Margin-SVM/screenshot.png) | ![Screenshot](SVR/screenshot.PNG) | 0.997% |
+![Screenshot](LMS-for-RBF/screenshot.jpg) | ![Screenshot](Soft-Margin-SVM/screenshot.png) | ![Screenshot](SVR/screenshot.PNG) |
