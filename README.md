@@ -15,4 +15,4 @@ FCM clustering | Fisher Classification | Linear Regression
 
 LMS for RBF | Soft Margin SVM | SVR
 --- | --- | --- |
-![Screenshot](LMS-for-RBF/screenshot.jpg) | ![Screenshot](Soft-Margin-SVM/screenshot.png) | ![Screenshot](SVR/screenshot.png) | 0.997% |
+![Screenshot](LMS-for-RBF/screenshot.jpg) | ![Screenshot](Soft-Margin-SVM/screenshot.png) | ![Screenshot](SVR/screenshot.PNG) | 0.997% |
